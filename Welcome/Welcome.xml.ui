@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<UIProject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ProjectDir>D:\wenzi\wenzi\Welcome</ProjectDir>
+  <Version>1.5.0.0</Version>
+  <Resources>D:\wenzi\wenzi\Welcome\Resources</Resources>
+  <Name>Welcome</Name>
+  <JsonFileName>Welcome.json</JsonFileName>
+  <JsonFolder>D:\wenzi\wenzi\Welcome\Json</JsonFolder>
+  <JsonList>
+    <string>Welcome_1.json</string>
+  </JsonList>
+  <CanvasSize>
+    <Width>0</Width>
+    <Height>0</Height>
+  </CanvasSize>
+  <filePath>D:\wenzi\wenzi\Welcome\Welcome.xml.ui</filePath>
+  <ProjectType>UIProject</ProjectType>
+  <ResRelativePath />
+  <imageFileList />
+  <imagePngList />
+  <JsonSuffix>.json</JsonSuffix>
+  <CurrentUIJson>Welcome_1.json</CurrentUIJson>
+</UIProject>

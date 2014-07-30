@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<AnimationProject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ProjectDir>D:\wenzi\wenzi\flower</ProjectDir>
+  <Version>1.5.0.0</Version>
+  <Resources>D:\wenzi\wenzi\flower\Resources</Resources>
+  <Name>flower</Name>
+  <JsonFileName>flower.json</JsonFileName>
+  <JsonFolder>D:\wenzi\wenzi\flower\Json</JsonFolder>
+  <JsonList />
+  <CanvasSize>
+    <Width>0</Width>
+    <Height>0</Height>
+  </CanvasSize>
+  <filePath>D:\wenzi\wenzi\flower\flower.xml.animation</filePath>
+  <ProjectType>AnimationProject</ProjectType>
+  <ResRelativePath />
+  <ResourceFileList />
+  <bBatchImage>false</bBatchImage>
+</AnimationProject>
